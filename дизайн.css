@@ -1,0 +1,103 @@
+
+h2{
+    border-bottom:8px solid Purple;
+    color: Purple;
+}
+.a img{
+    text-align: center;
+    width:300px;
+    border-radius:20px;
+    margin right:15%;
+    margin-left:15%;
+}
+.er{
+    background-color:violet;
+    background-size: contain;
+    border-radius: 13em/3em;
+    padding: 10px;
+    width: 20%;
+    height: 150%;
+    position: fixed;
+   left:1050px; 
+}
+body{
+    margin:0;
+}
+.love{
+    width:70%;
+margin-right:0%;
+margin-left: 50px;
+
+}
+.m{
+    display: inline-block;
+    width: 20%;
+    margin: 20px 10px;
+    border:2px solid green;
+    padding: 15px;
+    box-shadow: 0 2px 5px   DarkOliveGreen ;
+
+}
+.m img{
+    width: 100%;
+}
+ul{
+    display: inline-block;
+    width: 25%;
+    margin: 30px 20px;
+    padding:0px;
+    background-color:white;  
+    padding-bottom: 15px;
+    text-align: center;
+   border-radius: 20px; 
+}
+.matem{
+    text-align: center;
+}
+.name{
+    color:white;
+    background-color:purple ;
+    margin: 0;
+    padding: 10px 0;
+border-radius: 5px 10px;
+}
+.nam{
+    color:white;
+    background-color:coral;
+    margin: 0;
+    padding: 15px 0;
+    border-radius: 5px 10px;
+}
+.day{
+    color:Silver;
+}
+input[type=submit]{
+    padding: 7px;
+    border: none;
+    border-radius: 5px 10px;
+}
+li{
+    list-style:none;
+    padding: 16px 0;
+}
+.cat{
+    background-color:purple;
+    color: white;
+}
+.cat:hover{
+    background-color: white;
+    color: purple;
+}
+.dog{
+    background-color:coral;
+    color: white;
+}
+.dog:hover{
+    background-color:white;
+    color: coral;
+}
+.f input[type=submit]{
+    background-color: purple;
+    width:100%;
+    color:white;
+ }
